@@ -1,4 +1,6 @@
-package model;
+package service;
+
+import model.CardCounter;
 
 import java.util.HashMap;
 import java.util.List;

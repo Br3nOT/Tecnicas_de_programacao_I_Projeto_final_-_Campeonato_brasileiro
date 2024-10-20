@@ -1,7 +1,8 @@
-package reader;
+package service;
 
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvValidationException;
+import reader.Reader;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -10,7 +11,7 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ReaderImpl implements Reader  {
+public class ReaderImpl implements Reader {
 
     private static final String BASE_PATH = "src/main/resources/data/";
     public List<String[]> readCsvFile(String fileName) {
