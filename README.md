@@ -76,6 +76,7 @@ Certifique-se de que os arquivos CSV estão localizados na pasta `src/main/resou
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
 
 ---
