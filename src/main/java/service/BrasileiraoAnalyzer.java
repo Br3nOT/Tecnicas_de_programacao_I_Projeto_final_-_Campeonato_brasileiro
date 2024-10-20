@@ -30,7 +30,7 @@ public class BrasileiraoAnalyzer {
         if (topTeam.size() > 1){
             System.out.println(BLUE + "Os times com mais vitórias no quadro geral são: " + COLOR_RESET + String.join(", ", topTeam));
         }else{
-            System.out.println(BLUE + "O time com mai vitórias no quadro geral é: " + COLOR_RESET + String.join(", ", topTeam));
+            System.out.println(BLUE + "O time com mais vitórias no quadro geral é: " + COLOR_RESET + String.join(", ", topTeam));
         }
 
         if (topTeam2008.size() > 1){
@@ -40,7 +40,7 @@ public class BrasileiraoAnalyzer {
         }
 
         List <String> stateWithLeastMatches = getStateWithLeastMatches(dataMatchResults);
-        System.out.println(BLUE + "O Estado que teve menos jogos dentro do período 2003 e 2022: " + COLOR_RESET +
+        System.out.println(BLUE + "O Estado que teve menos jogos dentro do período 2003 a 2022: " + COLOR_RESET +
                 String.join(", ", stateWithLeastMatches));
 
 
@@ -158,7 +158,7 @@ public class BrasileiraoAnalyzer {
             }
         }
             System.out.println(BLUE + "Partida com mais gols: " + COLOR_RESET + matchWithMoreGoals);
-            System.out.println(BLUE + "Placar: " + COLOR_RESET + "Anfritrião "   + golsMandante + " x " + golsVisitante + " Visitante");
+            System.out.println(BLUE + "Placar: " + COLOR_RESET + "Anfitrião "   + golsMandante + " x " + golsVisitante + " Visitante");
             System.out.println(BLUE + "Total de gols: " + COLOR_RESET + maiorNumeroDeGols);
 
     }
