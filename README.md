@@ -17,7 +17,7 @@ O projeto tem como objetivo realizar a leitura de arquivos CSV com os dados de j
 
 Os arquivos CSV utilizados no projeto podem ser encontrados no link a seguir:
 
-* [Dados do Campeonato Brasileiro](https://github.com/vconceicao/ada_brasileirao_dataset/blob/master/campeonato-brasileiro-gols.csv)
+* [Dados do Campeonato Brasileiro](https://github.com/vconceicao/ada_brasileirao_dataset/tree/master)
 
   Inclui:
     * campeonato-brasileiro-cartoes.csv
@@ -36,6 +36,7 @@ Os arquivos CSV utilizados no projeto podem ser encontrados no link a seguir:
 * JDK 17+
 * Maven
 * IDE (IntelliJ IDEA, Visual Studio Code, etc.)
+* Git instalado para clonar o repositório
 
 ## Instalação
 
