@@ -22,7 +22,7 @@ public class BrasileiraoAnalyzer {
         List<String[]> dataMatchResults = reader.readCsvFile(matchResults);
         List<String> topTeam = getTeamWithMostWins(dataMatchResults);
         List<String> topTeam2008 = getTeamsWithMostWinsIn2008(dataMatchResults);
-        String cardColor1 = "AMARELo";
+        String cardColor1 = "Amarelo";
         String cardColor2 = "Vermelho";
 
 

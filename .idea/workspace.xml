@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a22471e0-f073-4563-804e-98e385b10bbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/DateValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/CardCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/CardCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/CardCounterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/CardCounterImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reader/ReaderImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/ReaderImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/service/BrasileiraoAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/BrasileiraoAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/data/campeonato-brasileiro-full.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/campeonato-brasileiro-full.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/data/campeonato-brasileiro-gols.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/campeonato-brasileiro-gols.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/CardCounterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/CardCounterImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +98,8 @@
       <workItem from="1729128977745" duration="434000" />
       <workItem from="1729217387160" duration="8780000" />
       <workItem from="1729261186388" duration="24035000" />
-      <workItem from="1729362570637" duration="18050000" />
+      <workItem from="1729362570637" duration="19171000" />
+      <workItem from="1729435540969" duration="3646000" />
     </task>
     <servers />
   </component>
