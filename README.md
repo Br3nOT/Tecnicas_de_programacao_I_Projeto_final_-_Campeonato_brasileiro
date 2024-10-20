@@ -41,7 +41,7 @@ Os arquivos CSV utilizados no projeto podem ser encontrados no link a seguir:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/Br3nOT/Tecnicas_de_programacao_I_Projeto_final_-_Campeonato_brasileiro.git
    ```
 
 2. **Importe o projeto:**
