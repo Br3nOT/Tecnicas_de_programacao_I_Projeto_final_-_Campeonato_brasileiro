@@ -65,8 +65,6 @@ Caso prefira executar via terminal, use o comando:
 mvn compile exec:java
 ```
 
-O projeto fará a leitura dos arquivos CSV localizados no diretório `src/main/resources/data/`.
-
 ## Arquivos CSV
 
 Certifique-se de que os arquivos CSV estão localizados na pasta `src/main/resources/data/`. Caso contrário, ajuste o caminho diretamente no código, na classe `ReaderImpl`.
