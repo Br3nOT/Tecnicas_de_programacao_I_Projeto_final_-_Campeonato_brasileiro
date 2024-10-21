@@ -57,7 +57,9 @@ Os arquivos CSV utilizados no projeto podem ser encontrados no link a seguir:
 
 ## Como Executar
 
-Após a instalação, compile e execute o projeto usando o comando:
+Após clonar o repositório e instalar as dependências, você pode simplesmente navegar até a classe `Main` e executar diretamente pela sua IDE. O projeto fará a leitura dos arquivos CSV localizados no diretório `src/main/resources/data/`.
+
+Caso prefira executar via terminal, use o comando:
 
 ```bash
 mvn compile exec:java
