@@ -6,6 +6,7 @@ Este projeto realiza a análise dos dados de jogos do Campeonato Brasileiro entr
 
 O projeto tem como objetivo realizar a leitura de arquivos CSV com os dados de jogos do Campeonato Brasileiro e trazer os seguintes resultados:
 
+* O time com mais vitórias no quadro geral do período 
 * O time que mais venceu jogos no ano de 2008
 * O estado que teve menos jogos entre 2003 e 2022
 * O jogador que mais fez gols
